@@ -1,0 +1,6 @@
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\bin\x86\Debug\LazerClassLibrary.dll
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\bin\x86\Debug\LazerClassLibrary.pdb
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.csproj.AssemblyReference.cache
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.csproj.CoreCompileInputs.cache
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.dll
+H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.pdb

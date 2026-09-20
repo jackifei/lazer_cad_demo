@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LazerClassLibrary.csproj" Id="2039b18e-afa3-4f28-8c5a-ca7cb342b7d0">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
