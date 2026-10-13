@@ -48,6 +48,14 @@ namespace LazerClassLibrary
             CallingConvention = CallingConvention.Cdecl)]
         internal static extern int lmc1_StopMark();
 
+        [DllImport("MarkEzd.dll", EntryPoint = "lmc1_ReadPort",
+            CallingConvention = CallingConvention.Cdecl)]
+        internal static extern int lmc1_ReadPort(out ushort data);
+
+        [DllImport("MarkEzd.dll", EntryPoint = "lmc1_WritePort",
+            CallingConvention = CallingConvention.Cdecl)]
+        internal static extern int lmc1_WritePort(ushort data);
+
         [DllImport("MarkEzd.dll", EntryPoint = "lmc1_IsMarking",
             CallingConvention = CallingConvention.Cdecl)]
         [return: MarshalAs(UnmanagedType.I1)]

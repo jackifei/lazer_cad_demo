@@ -150,6 +150,27 @@ namespace LazerClassLibrary
             return SetError(NativeMethods.lmc1_StopMark());
         }
 
+        /// <summary>
+        /// 读取 LMC1 的输入端口状态。
+        /// data 的 Bit0 对应 IN0、Bit1 对应 IN1，以此类推；1 表示高电平。
+        /// </summary>
+        public int ReadPort(out ushort data)
+        {
+            data = 0;
+            if (!_initialized) return SetError((int)Lmc1Error.NoInitial);
+            return SetError(NativeMethods.lmc1_ReadPort(out data));
+        }
+
+        /// <summary>
+        /// 写 LMC1 的输出端口。
+        /// data 的 Bit0 对应 OUT0、Bit1 对应 OUT1，以此类推；1 表示输出高电平。
+        /// </summary>
+        public int WritePort(ushort data)
+        {
+            if (!_initialized) return SetError((int)Lmc1Error.NoInitial);
+            return SetError(NativeMethods.lmc1_WritePort(data));
+        }
+
         /// <summary>等待后台打标完成，返回本次打标的错误码。</summary>
         public int WaitForMarkCompleted()
         {

@@ -1,18 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|h:\\codexpj\\lazer_cad\\lazer_cad_demo\\lazerclasslibrary\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|c:\\users\\skate\\onedrive\\0_github_app_\\lazer_cad\\lazer_cad_demo\\lazerclasslibrary\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|solutionrelative:nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|h:\\codexpj\\lazer_cad\\lazer_cad_demo\\lazerclasslibrary\\lasermarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\lasermarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2039B18E-AFA3-4F28-8C5A-CA7CB342B7D0}|LazerClassLibrary.csproj|solutionrelative:lasermarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +21,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LaserMarkController.cs",
-              "DocumentMoniker": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\LaserMarkController.cs",
-              "RelativeDocumentMoniker": "LaserMarkController.cs",
-              "ToolTip": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\LaserMarkController.cs",
-              "RelativeToolTip": "LaserMarkController.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAA+wLEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T06:12:26.267Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NativeMethods.cs",
-              "DocumentMoniker": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
               "RelativeDocumentMoniker": "NativeMethods.cs",
-              "ToolTip": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
               "RelativeToolTip": "NativeMethods.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T06:10:05.278Z",
+              "WhenOpened": "2026-10-12T06:58:49.897Z",
               "EditorCaption": ""
             },
             {
@@ -55,11 +41,25 @@
               "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-19T05:50:52.961Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaserMarkController.cs",
+              "DocumentMoniker": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\LaserMarkController.cs",
+              "RelativeDocumentMoniker": "LaserMarkController.cs",
+              "ToolTip": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\LaserMarkController.cs",
+              "RelativeToolTip": "LaserMarkController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAA+wLEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T06:12:26.267Z"
             }
           ]
         }

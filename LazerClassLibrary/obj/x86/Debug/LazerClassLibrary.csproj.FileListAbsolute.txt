@@ -4,3 +4,9 @@ H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLi
 H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.csproj.CoreCompileInputs.cache
 H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.dll
 H:\codexpj\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.pdb
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\bin\x86\Debug\LazerClassLibrary.dll
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\bin\x86\Debug\LazerClassLibrary.pdb
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.csproj.AssemblyReference.cache
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.dll
+C:\Users\skate\OneDrive\0_Github_App_\lazer_cad\lazer_cad_demo\LazerClassLibrary\obj\x86\Debug\LazerClassLibrary.pdb

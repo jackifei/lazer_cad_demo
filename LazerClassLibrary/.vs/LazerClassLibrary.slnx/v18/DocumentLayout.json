@@ -21,8 +21,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "NativeMethods.cs",
+              "ToolTip": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
+              "RelativeToolTip": "NativeMethods.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:58:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
+              "ToolTip": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T05:50:52.961Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,28 +60,6 @@
               "ViewState": "AgIAAJIAAAAAAAAAAAA+wLEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-19T06:12:26.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NativeMethods.cs",
-              "DocumentMoniker": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
-              "RelativeDocumentMoniker": "NativeMethods.cs",
-              "ToolTip": "C:\\Users\\skate\\OneDrive\\0_Github_App_\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\NativeMethods.cs",
-              "RelativeToolTip": "NativeMethods.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T06:10:05.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
-              "ToolTip": "H:\\codexpj\\lazer_cad\\lazer_cad_demo\\LazerClassLibrary\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T05:50:52.961Z"
             }
           ]
         }
